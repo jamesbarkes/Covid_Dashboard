@@ -1,0 +1,6 @@
+LICENSE.txt
+setup.py
+Covid19_Dashboard_Jamesbarkes.egg-info/PKG-INFO
+Covid19_Dashboard_Jamesbarkes.egg-info/SOURCES.txt
+Covid19_Dashboard_Jamesbarkes.egg-info/dependency_links.txt
+Covid19_Dashboard_Jamesbarkes.egg-info/top_level.txt

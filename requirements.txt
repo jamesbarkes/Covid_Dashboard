@@ -1,0 +1,4 @@
+flask
+uk-covid19
+newsapi-python
+pytest
