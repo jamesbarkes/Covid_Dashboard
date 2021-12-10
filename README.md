@@ -26,7 +26,7 @@ pip install newsapi-python
 pip install pytest
 ```
 
-You will need to get your own API key at [NewsAPI](https://newsapi.org/). And enter it into, along with the other relevant data, the ```config.json``` file.
+You will need to get your own API key at [NewsAPI](https://newsapi.org/). And enter it into, along with the other relevant data, in the ```config.json``` file.
 
 **The program will not work if the values in the config file are not filled!**
 ## Getting Started
