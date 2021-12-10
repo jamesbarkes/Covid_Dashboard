@@ -70,3 +70,11 @@ This can be found by navigating to:
 ### Author: James Barkes
 ### Acknowledgements: Hugo Barbosa & Matt Collison
 ### Github Link: [https://github.com/jamesbarkes/covid_dashboard](https://github.com/jamesbarkes/covid_dashboard)
+
+## Note to Examiner
+
+I did create a package however I wasn't sure if it worked so i didn't include it in the main part of README:
+
+```bash
+pip install Covid19-Dashboard-Jamesbarkes==1
+```
