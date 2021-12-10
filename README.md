@@ -9,9 +9,21 @@ Python Version: 3.9.9
 
 Download and install this package.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the packages stored in the requirements file:
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages:
 ```bash
-pip -r requirements.txt
+pip install flask
+```
+
+```bash
+pip install uk-covid19
+```
+
+```bash
+pip install newsapi-python
+```
+
+```bash
+pip install pytest
 ```
 
 You will need to get your own API key at [NewsAPI](https://newsapi.org/). And enter it into, along with the other relevant data, the ```config.json``` file.
